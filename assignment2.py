@@ -5,7 +5,7 @@ users = {
     "cashier": {"password": "cash123", "role": "Cashier"}
 }
 
-print("=== LOGIN SYSTEM ===")
+print("LOGIN SYSTEM")
 username = input("Enter username: ")
 password = input("Enter password: ")
 
@@ -71,7 +71,7 @@ tax_amount = subtotal * tax_rate
 final_price = subtotal - discount_amount - coupon_amount + tax_amount
 
 # OUTPUT
-print("\n--- RECEIPT ---")
+print("\n RECEIPT ")
 print(f"Subtotal: {subtotal}")
 print(f"Discount ({discount_rate*100}%): -{discount_amount}")
 print(f"Coupon ({coupon_discount*100}%): -{coupon_amount}")
