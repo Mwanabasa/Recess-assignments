@@ -137,7 +137,11 @@ def main():
     manager = ContactManager()
 
     while True:
+<<<<<<< HEAD
         print("=== Contact Manager Menu ===")
+=======
+        print(" Contact Manager Menu ")
+>>>>>>> 5c2d582 (added assignment)
         print("1. Add Contact")
         print("2. View Contact")
         print("3. Update Contact")
