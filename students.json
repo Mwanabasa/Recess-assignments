@@ -1,0 +1,22 @@
+{
+    "REG001": {
+        "address": "Plot 15, Lusaka",
+        "contact": "0977001001",
+        "program": "Computer Science"
+    },
+    "REG002": {
+        "address": "House 21, Ndola",
+        "contact": "0966002002",
+        "program": "Business Administration"
+    },
+    "REG003": {
+        "address": "Flat 7, Kitwe",
+        "contact": "0955003003",
+        "program": "Information Systems"
+    },
+    "24/U/22867": {
+        "address": "Kikoni",
+        "contact": "0760567450",
+        "program": "BSSE"
+    }
+}
